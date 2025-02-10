@@ -21,7 +21,6 @@ A Python application that fetches and visualizes real-time Bitcoin price data us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AllAboutAI-YT/btc_price.git
    cd btc_price
    ```
 
